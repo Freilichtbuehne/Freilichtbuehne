@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Freilichtbühne</h1>
 <h3 align="center">I just found out that there are profile generators for Github.</h3>
 
-<p align="left"> 
+<p align="center""> 
     <img src="https://komarev.com/ghpvc/?username=freilichtbuehne&label=Profile%20views&color=0e75b6&style=flat" alt="freilichtbuehne" /> 
 </p>
 
-<p align="left"> 
+<p align="center""> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=freilichtbuehne" alt="freilichtbuehne" />
     </a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<palign="center"> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"> 
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
     </a>
