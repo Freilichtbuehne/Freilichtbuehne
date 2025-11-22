@@ -5,11 +5,11 @@
     <img src="https://komarev.com/ghpvc/?username=freilichtbuehne&label=Profile%20views&color=0e75b6&style=flat" alt="freilichtbuehne" /> 
 </p>
 
-<p align="center""> 
+<!--<p align="center""> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=freilichtbuehne" alt="freilichtbuehne" />
     </a> 
-</p>
+</p>-->
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
